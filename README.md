@@ -1,2 +1,2 @@
 # 3D_LidarPC_ObjectDetection
-Final year project
+Comparison of 2 architectures
